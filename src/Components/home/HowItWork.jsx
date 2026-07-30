@@ -8,7 +8,7 @@ const HowItWork = () => {
             step: "STEP 1",
             title: "Browse Rooms",
             description:
-                "Filter by floor, capacity, amenities, or hourly rate to find your fit.",
+                "Find the perfect study space with smart filters for floor, capacity, amenities, and pricing.",
             icon: <FiSearch />,
         },
         {
@@ -16,7 +16,7 @@ const HowItWork = () => {
             step: "STEP 2",
             title: "Pick a Time",
             description:
-                "Choose a date and an open time slot — we'll prevent any conflicts.",
+                "Select your preferred date and time slot—we'll handle the rest.",
             icon: <FiCalendar />,
         },
         {
@@ -24,7 +24,7 @@ const HowItWork = () => {
             step: "STEP 3",
             title: "Study Peacefully",
             description:
-                "Get a confirmation, show up, and focus. Manage everything from your dashboard.",
+                "Your booking is confirmed. Just show up, study, and manage everything in one place.",
             icon: <FiCreditCard />,
         },
     ];
