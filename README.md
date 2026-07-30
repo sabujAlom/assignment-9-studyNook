@@ -134,6 +134,6 @@ npm run dev
 
 # 👨‍💻 Developer
 
-### Mahdi Hasan
+### Md. Sabuj Alom
 
 Full-Stack Web Developer
