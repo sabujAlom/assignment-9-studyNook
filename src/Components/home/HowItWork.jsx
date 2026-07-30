@@ -35,10 +35,10 @@ const HowItWork = () => {
             {/* heading text */}
             <div className="mb-10 space-y-2 text-center">
                 <h1 className="text-3xl md:text-4xl font-bold">
-                    How It Works
+                    Easy Booking Steps
                 </h1>
                 <p className="text-[#94A3B8] px-5">
-                    From browsing to booked in under a minute.
+                    Your perfect study room, booked in less than a minute
                 </p>
             </div>
 
