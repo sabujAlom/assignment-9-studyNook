@@ -25,21 +25,21 @@ const Footer = () => {
 
                         <div className="mt-6 flex items-center gap-3">
                             <a target="_blank"
-                                href="https://github.com/mahdihasanprogrammer"
+                                href="https://github.com/sabujAlom"
                                 className="flex h-10 w-10 items-center justify-center rounded-2xl border border-white/10 bg-white/5 text-[#22D3EE] transition-all duration-300 hover:-translate-y-1 hover:bg-cyan-400/10 hover:shadow-[0_8px_30px_rgba(34,211,238,0.20)]"
                             >
                                 <FaGithub size={16} />
                             </a>
 
                             <a target="_blank"
-                                href="https://www.facebook.com/hasan.shardar.1"
+                                href="https://www.facebook.com/mdsabujalom8"
                                 className="flex h-10 w-10 items-center justify-center rounded-2xl border border-white/10 bg-white/5 text-[#22D3EE] transition-all duration-300 hover:-translate-y-1 hover:bg-cyan-400/10 hover:shadow-[0_8px_30px_rgba(34,211,238,0.20)]"
                             >
                                 <FaFacebookF size={16} />
                             </a>
 
                             <a target="_blank"
-                                href="https://www.linkedin.com/in/mahdi-hasan-web"
+                                href="www.linkedin.com/in/sabujalom19"
                                 className="flex h-10 w-10 items-center justify-center rounded-2xl border border-white/10 bg-white/5 text-[#22D3EE] transition-all duration-300 hover:-translate-y-1 hover:bg-cyan-400/10 hover:shadow-[0_8px_30px_rgba(34,211,238,0.20)]"
                             >
                                 <FaLinkedinIn size={16} />
@@ -141,7 +141,7 @@ const Footer = () => {
 
                                 <div>
                                     <p className="text-[#94A3B8]">
-                                        mahdihasan.code@gmail.com
+                                        sabujalom@gmail.com
                                     </p>
                                 </div>
                             </div>
@@ -153,7 +153,7 @@ const Footer = () => {
 
                                 <div>
                                     <p className="text-[#94A3B8]">
-                                        01400596304
+                                        01728195045
                                     </p>
                                 </div>
                             </div>
@@ -164,7 +164,7 @@ const Footer = () => {
 
                                 <div>
                                     <p className="text-[#94A3B8]">
-                                        Shenbag, Noakhali, Bangladesh
+                                        Cumilla, Chattogram, Bangladesh
                                     </p>
                                 </div>
                             </div>
