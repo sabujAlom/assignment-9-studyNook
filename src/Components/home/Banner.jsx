@@ -37,10 +37,10 @@ const Banner = () => {
         </div>
 
         {/* right side image */}
-        <div className="flex-1 relative w-full h-[350px] md:h-[450px]">
+        <div className="w-full md:flex-1 relative h-[350px] md:h-[450px]">
           <Image
-            src="/banner.jpg"
-            alt="banner-image"
+            src="/study-room-banner.jpg"
+            alt="study-room-banner"
             fill
             sizes="(max-width: 768px) 100vw, 50vw"
             className="object-cover rounded-xl shadow-2xl"
