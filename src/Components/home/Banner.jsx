@@ -18,12 +18,9 @@ const Banner = () => {
 
         {/* left side content */}
         <div className="flex-1 space-y-5">
-          <h1 className="text-4xl md:text-6xl font-bold">
-            Find Your <span className="text-[#22D3EE]">Perfect</span> Study Room
-          </h1>
+          <h1 className="text-4xl md:text-6xl font-bold">Discover Your <span className="text-[#22D3EE]">Ideal</span> Study Space</h1>
           <p className="text-[#94A3B8] text-lg">
-            Browse and book quiet, private study rooms in your library. List
-            your own room and earn.
+            Discover peaceful study spaces designed for focus, collaboration, and productive learning—all in one place.
           </p>
 
           <Link href={"/all-rooms"} className="relative">
