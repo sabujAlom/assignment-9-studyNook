@@ -13,8 +13,8 @@
 
 ## 🔗 Repositories
 
-- **Client:** https://github.com/mahdihasanprogrammer/Assignment-9-StudyNook.git
-- **Server:** https://github.com/mahdihasanprogrammer/Assignment-9-StudyNook-Server.git
+- **Client:** https://github.com/sabujAlom/assignment-9-studyNook
+- **Server:** https://github.com/sabujAlom/assignment-9-studynook-server
 
 ---
 
