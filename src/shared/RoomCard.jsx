@@ -20,6 +20,7 @@ const RoomCard = ({ room }) => {
                 <Image src={room.roomImage}
                     alt={room.roomName}
                     fill
+                    size="(mzx-width:768)"
                     className="hover:scale-108 transition duration-500" />
             </div>
 
