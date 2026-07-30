@@ -6,8 +6,8 @@
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://assignment-9-study-nook.vercel.app
-- **Backend:** https://assignment-9-study-nook-server.vercel.app
+- **Frontend:** https://assignment-9-study-nook-two.vercel.app
+- **Backend:** https://assignment-9-studynook-server.vercel.app
 
 ---
 
