@@ -52,7 +52,8 @@ const MarqueeNews = () => {
                 <span className="mx-10 text-[#9CA3AF]">
                     {" "}
                     <span className="text-white font-medium">
-                        Find the ideal space for studying, meetings, or group discussions.
+                    
+                        Discover quiet spaces designed for focus, collaboration, and productivity
                     </span>
                 </span>
             </Marquee>
