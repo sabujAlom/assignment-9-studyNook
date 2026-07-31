@@ -5,15 +5,15 @@ const MarqueeNews = () => {
     const marqueeItems = [
         {
             id: 1,
-            text: "📚 Book your perfect study room in under a minute."
+            text: " Book your perfect study room in under a minute."
         },
         {
             id: 2,
-            text: "🎓 Quiet spaces available for focused learning."
+            text: " Quiet spaces available for focused learning."
         },
         {
             id: 3,
-            text: "⚡ Reserve instantly with real-time availability."
+            text: " Reserve instantly with real-time availability."
         }
     ]
 
@@ -31,18 +31,18 @@ const MarqueeNews = () => {
                         key={item.id}
                         className="mx-10 text-[#9CA3AF]"
                     >
-                        <span className="text-[#B88E48] font-semibold">
+                        <span className="text-[#17d3f0] font-semibold">
                             StudyNook:
                         </span>{" "}
                         <span className="text-white font-medium">
                             {item.text}
                         </span>
-                        <span className="mx-8 text-[#B88E48]">•</span>
+                        <span className="mx-8 text-[#17d3f0]">•</span>
                     </span>
                 ))}
 
                 <span className="mx-10 text-[#9CA3AF]">
-                    💳{" "}
+                    {" "}
                     <span className="text-white font-medium">
                         Flexible hourly booking with secure payments.
                     </span>
@@ -50,7 +50,7 @@ const MarqueeNews = () => {
                 </span>
 
                 <span className="mx-10 text-[#9CA3AF]">
-                    ⭐{" "}
+                    {" "}
                     <span className="text-white font-medium">
                         Find the ideal space for studying, meetings, or group discussions.
                     </span>
